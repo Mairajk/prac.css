@@ -1,0 +1,31 @@
+#top {
+  background-color: aquamarine;
+  color: lightslategray;
+}
+
+#introduction {
+  background-color: lightslategray;
+  color: aquamarine;
+}
+
+body {
+  background-color: plum;
+}
+
+h2 {
+  color: aquamarine;
+}
+
+li > a {
+  background-color: aquamarine;
+  color: lightslategray;
+}
+
+.note {
+  color: aquamarine;
+}
+
+p > a {
+  background-color: lightslategray;
+  color: aquamarine;
+}
